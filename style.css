@@ -1,0 +1,96 @@
+* {
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins' ,sans-serif;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url('Harmony.png');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+    align-items: center;
+    justify-content: safe;
+}
+h1 {
+    color: #fff;
+    margin-top: 25px;
+    text-decoration: none;
+}
+a {
+    text-decoration: none;
+    color: #fff;
+    border: 5px solid lightblue;
+    padding: 10px;
+    margin-top: 260px;
+    position: relative;
+    text-align: center;
+    top: 25px;
+    left: 25px;
+    border-radius: 17px;
+    box-shadow: 2px 5px 10px ;
+}
+a:hover {
+    padding: 12.5px;
+    transition: 0.1s;
+    box-shadow: 2px 5px 30px lightblue;
+}
+p {
+    color: #fff;
+    font-weight: 470;
+    margin-top: ;
+    top: 10%;
+    text-decoration: hsla(hue, saturation, lightness, alpha);
+}
+
+
+h3 {
+    margin-top: 10px;
+    top: -30px;
+    font-weight: 500;
+    text-decoration: hsla(hue, saturation, lightness, alpha);
+}
+
+
+.boarder {
+    border: 5px solid lightblue;
+    border-radius: 50px;
+    text-align: center;
+    padding: 100px;
+    background-image: url('DonateHarmony.png');
+    background-attachment: fixed;
+    background-size: cover;
+    align-items: center;
+    justify-content: safe;
+    box-shadow: 2px 5px 40px lightblue;
+    margin-top: 250px;
+    font-weight: 100;
+}
+.boarder:hover {
+    padding: 85px;
+    transition: 0.3s;
+}
+a.boarder {
+    text-align: center;
+}
+.button {
+    color: lightblue;
+}
+a {
+    margin-top: 20px;
+    top: 0;
+    display: inline-block;
+    position: relative;
+}
+h2 {
+    color: #fff;
+}
+.content p {
+    color: #fff;
+}
+h3 {
+    color: #fff;
+}
